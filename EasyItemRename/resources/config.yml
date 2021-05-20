@@ -1,0 +1,12 @@
+# Maximum number of characters to allow for the new name:
+max-name-length: 20
+
+# Response messages: You can change the messages sent to the player.
+# Variables: {item-name}, {new-name}, {char-len} 
+messages:
+  message-success: "&7Successfully renamed &a{item-name}&r&7 to &a{new-name}&r&7."
+  message-tolong: "&7Your custom name is too long, it must be under &a{char-len} characters &7 or less."
+  form:
+    form-title: "&a&lRENAME MENU&r"
+    form-content: "&7Rename your items easily!"
+    form-input: "Use `&` for the color symbol."
