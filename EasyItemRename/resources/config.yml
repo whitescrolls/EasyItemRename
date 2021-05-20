@@ -2,7 +2,7 @@
 max-name-length: 20
 
 # Response messages: You can change the messages sent to the player.
-# Variables: {item-name}, {new-name}, {char-len} 
+# Variables: {item-name} - Original name of the item, {new-name} - The new name of the item after name change, {char-len} - Maximum length of characters to be used for the name.
 messages:
   message-success: "&7Successfully renamed &a{item-name}&r&7 to &a{new-name}&r&7."
   message-tolong: "&7Your custom name is too long, it must be under &a{char-len} characters &7 or less."
