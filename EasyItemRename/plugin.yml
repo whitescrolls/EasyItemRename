@@ -1,0 +1,7 @@
+name: EasyItemRename
+version: 1.0.0
+main: Gsets\EasyItemRename\Main
+author: Gsets
+description: Allows players to easily rename their items.
+api: 3.19.0
+...
